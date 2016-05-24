@@ -1,2 +1,3 @@
 # Hello_world
-This is the first repository
+This is my first repository
+Well, I need to know if this plattform is usefull for my embedded projects, so here I am looking this thing...
